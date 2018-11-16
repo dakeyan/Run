@@ -7,3 +7,4 @@ conf/parameter_db.py
 .project
 .pydevproject
 .settings/
+.idea/
